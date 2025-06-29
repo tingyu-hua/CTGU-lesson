@@ -1,2 +1,2 @@
 # CTGU-lesson
-用python写的抢课脚本
+用于宜昌三峡大学的python抢课脚本
