@@ -12,12 +12,13 @@
 
 ## 安装指南
 
-1. 确保已安装Python 3.6+
+1. 确保已安装Python 3.6+，推荐3.11
 2. 克隆本项目：
    ```bash
    git clone https://github.com/your-repo/sanxailesson.git
    ```
-3. 安装依赖：
+   或直接下载zip压缩文件并解压
+3. 进入对应路径安装依赖：
    ```bash
    pip install -r requirements.txt
    ```
@@ -25,6 +26,9 @@
 ## 使用说明
 
 1. 在config.yaml中填写相关信息，目前密码是直接输入加密后的密码，需要自行查看，方法如下
+   ![图片描述](images/example.1.jpg)
+   ![图片描述](images/example.2.jpg)
+   ![图片描述](images/example.3.jpg)
 2. 运行主程序：
    ```bash
    python main.py
