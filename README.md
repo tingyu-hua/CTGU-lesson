@@ -15,7 +15,7 @@
 1. 确保已安装Python 3.6+，推荐3.11
 2. 克隆本项目：
    ```bash
-   git clone https://github.com/your-repo/sanxailesson.git
+   git clone https://github.com/tingyu-hua/CTGU-lesson.git
    ```
    或直接下载zip压缩文件并解压
 3. 进入对应路径安装依赖：
@@ -58,3 +58,4 @@ sanxailesson/
 1. 请确保配置文件(config.yml)已正确设置
 2. 保持网络连接正常使用所有功能
 3. 目前线程太多可能产生拥挤，导致无法抢课
+
